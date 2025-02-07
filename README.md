@@ -9,6 +9,7 @@
 
 Пример работы проекта:
 
+
 <video controls width="640">
   <source src="assets/video.mp4" type="video/mp4">
 </video>
