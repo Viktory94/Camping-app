@@ -9,10 +9,7 @@
 
 Пример работы проекта:
 
-
-<video controls width="640">
-  <source src="assets/video.mp4" type="video/mp4">
-</video>
+![Image](https://github.com/user-attachments/assets/c3465b1c-7ed3-4e39-b4dc-ca5e4a1aab80)
 
 
 
